@@ -8,5 +8,5 @@ blog.
 ## MVVM Architecture
 <img src="mvvm.png" height="500" width="600">
 
-## App Screennshot
+## App Screenshot
 <img src="app.jpeg" height="500" width="250">
